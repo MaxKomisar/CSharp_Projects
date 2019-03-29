@@ -1,0 +1,7 @@
+C:\Users\max-k_000\source\repos\TCP_\TCP_\bin\Debug\TCP_.exe.config
+C:\Users\max-k_000\source\repos\TCP_\TCP_\bin\Debug\TCP_.exe
+C:\Users\max-k_000\source\repos\TCP_\TCP_\bin\Debug\TCP_.pdb
+C:\Users\max-k_000\source\repos\TCP_\TCP_\obj\Debug\TCP_.csprojAssemblyReference.cache
+C:\Users\max-k_000\source\repos\TCP_\TCP_\obj\Debug\TCP_.csproj.CoreCompileInputs.cache
+C:\Users\max-k_000\source\repos\TCP_\TCP_\obj\Debug\TCP_.exe
+C:\Users\max-k_000\source\repos\TCP_\TCP_\obj\Debug\TCP_.pdb

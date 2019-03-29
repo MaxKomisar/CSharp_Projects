@@ -1,0 +1,7 @@
+C:\Users\max-k_000\source\repos\SOLID\SOLID\bin\Debug\SOLID.exe.config
+C:\Users\max-k_000\source\repos\SOLID\SOLID\bin\Debug\SOLID.exe
+C:\Users\max-k_000\source\repos\SOLID\SOLID\bin\Debug\SOLID.pdb
+C:\Users\max-k_000\source\repos\SOLID\SOLID\obj\Debug\SOLID.csprojAssemblyReference.cache
+C:\Users\max-k_000\source\repos\SOLID\SOLID\obj\Debug\SOLID.csproj.CoreCompileInputs.cache
+C:\Users\max-k_000\source\repos\SOLID\SOLID\obj\Debug\SOLID.exe
+C:\Users\max-k_000\source\repos\SOLID\SOLID\obj\Debug\SOLID.pdb

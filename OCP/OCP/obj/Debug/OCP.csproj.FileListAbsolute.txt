@@ -1,0 +1,7 @@
+C:\Users\max-k_000\source\repos\OCP\OCP\bin\Debug\OCP.exe.config
+C:\Users\max-k_000\source\repos\OCP\OCP\bin\Debug\OCP.exe
+C:\Users\max-k_000\source\repos\OCP\OCP\bin\Debug\OCP.pdb
+C:\Users\max-k_000\source\repos\OCP\OCP\obj\Debug\OCP.csprojAssemblyReference.cache
+C:\Users\max-k_000\source\repos\OCP\OCP\obj\Debug\OCP.csproj.CoreCompileInputs.cache
+C:\Users\max-k_000\source\repos\OCP\OCP\obj\Debug\OCP.exe
+C:\Users\max-k_000\source\repos\OCP\OCP\obj\Debug\OCP.pdb
