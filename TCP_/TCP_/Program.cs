@@ -90,9 +90,9 @@ namespace TCP_
 
             List<string> listString = new List<string>();
             // отправитель - устанавливаем адрес и отображаемое в письме имя
-            MailAddress from = new MailAddress("metamaxteam@gmail.com", "M");
+            MailAddress from = new MailAddress("mail", "-");
             // кому отправляем
-            MailAddress to = new MailAddress("zerotool1212@gmail.com");
+            MailAddress to = new MailAddress("mail");
             // создаем объект сообщения
             MailMessage m = new MailMessage(from, to);
             // тема письма
@@ -114,7 +114,7 @@ namespace TCP_
             // адрес smtp-сервера и порт, с которого будем отправлять письмо
             SmtpClient smtp = new SmtpClient("smtp.gmail.com", 587);
             // логин и пароль
-            smtp.Credentials = new NetworkCredential("fdeath6660@gmail.com", "hooklok90");
+            smtp.Credentials = new NetworkCredential("login", "pass");
             smtp.EnableSsl = true;
             smtp.Send(m);
             smtp.SendCompleted += Smtp_SendCompleted;
